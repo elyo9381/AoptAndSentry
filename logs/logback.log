@@ -1,0 +1,4 @@
+[2021-05-14 21:04:53:13681][http-nio-8080-exec-1] WARN  c.d.p.demo.config.BindingAdvice - com.ddoel.person.demo.web.UserController.save()=>필드 : username, 메시지:유저네임 키값이 없습니다.
+[2021-05-14 21:04:53:13682][http-nio-8080-exec-1] WARN  c.d.p.demo.config.BindingAdvice - com.ddoel.person.demo.web.UserController.save()=>필드 : username, 메시지:유저네임을 입력하세요.
+[2021-05-14 21:33:53:10518][http-nio-8080-exec-1] WARN  c.d.p.demo.config.BindingAdvice - com.ddoel.person.demo.web.UserController.save()=>필드 : username, 메시지:유저네임을 입력하세요.
+[2021-05-14 21:33:53:10527][http-nio-8080-exec-1] WARN  c.d.p.demo.config.BindingAdvice - com.ddoel.person.demo.web.UserController.save()=>필드 : username, 메시지:유저네임 키값이 없습니다.
